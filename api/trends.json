@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T20:44:24.814978+08:00",
-  "total_titles_processed": 1704,
+  "generated_at": "2025-12-10T21:37:57.663150+08:00",
+  "total_titles_processed": 1792,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 58,
+      "match_count": 61,
       "titles": [
         {
           "title": "胡锡进：特朗普对H200放行，显然受到了两大压力",
@@ -42,8 +42,22 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时36分 ~ 20时44分]"
+          "appearance_count": 22,
+          "time_info": "[00时36分 ~ 21时37分]"
+        },
+        {
+          "title": "特朗普俄乌“和平计划”失败？泽连斯基强硬表态：不会放弃任何领土",
+          "url": "https://www.cls.cn/detail/2225037",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时30分 ~ 21时37分]"
         },
         {
           "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
@@ -97,20 +111,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时36分 ~ 07时27分]"
-        },
-        {
-          "title": "特朗普俄乌“和平计划”失败？泽连斯基强硬表态：不会放弃任何领土",
-          "url": "https://www.cls.cn/detail/2225037",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            3,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时30分 ~ 20时44分]"
         },
         {
           "title": "特朗普：泰柬又打起来了，我得打个电话",
@@ -214,15 +214,37 @@
           "time_info": "10时06分"
         },
         {
+          "title": "德国总理默茨：我们希望美国未来成为我们的伙伴，这一点我已向美国总统特朗普表明。",
+          "url": "https://flash.jin10.com/detail/20251210211820992800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
           "title": "美媒：特朗普政府拟调整反洗钱规则 财政部寻求强化主导权",
           "url": "https://flash.jin10.com/detail/20251210202149381800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时44分"
+        },
+        {
+          "title": "德国总理默茨：我下次见到美国总统特朗普时，会告诉他，我们在移民政策上取得了成功。",
+          "url": "https://flash.jin10.com/detail/20251210211806034800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         },
         {
           "title": "美国总统特朗普：支持奥巴马医保补贴立法草案这个概念。 我喜欢资金流向民众、而不要流向保险行业这个想法。",
@@ -320,8 +342,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时25分 ~ 20时44分]"
+          "appearance_count": 4,
+          "time_info": "[18时25分 ~ 21时37分]"
         },
         {
           "title": "特朗普继续数落欧洲，默茨：要做好“欧美不同行”的准备",
@@ -371,6 +393,17 @@
           "time_info": "[06时26分 ~ 07时27分]"
         },
         {
+          "title": "洪都拉斯现任总统：由于特朗普“干预选举”，此次大选“无效”",
+          "url": "https://news.ifeng.com/c/8oyaoHd0S2N",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时44分 ~ 21时37分]"
+        },
+        {
           "title": "特朗普继续数落欧洲 德总理：要做好“欧美不同行”的准备",
           "url": "https://wallstreetcn.com/livenews/3018408",
           "source": "华尔街见闻-快讯",
@@ -404,6 +437,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时51分 ~ 03时20分]"
+        },
+        {
+          "title": "特朗普演讲中低俗调侃议员老婆",
+          "url": "https://www.toutiao.com/trending/7581732466420973574/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时44分 ~ 21时37分]"
+        },
+        {
+          "title": "特朗普夸白宫发言人漂亮",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%B8%E7%99%BD%E5%AE%AB%E5%8F%91%E8%A8%80%E4%BA%BA%E6%BC%82%E4%BA%AE",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时44分 ~ 21时37分]"
         },
         {
           "title": "特朗普谈泰柬冲突：我得打个电话",
@@ -448,17 +505,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
-        },
-        {
-          "title": "洪都拉斯现任总统：由于特朗普“干预选举”，此次大选“无效”",
-          "url": "https://news.ifeng.com/c/8oyaoHd0S2N",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时44分"
         },
         {
           "title": "美国贸易办公室（USTR）代表格里尔在参议院听证会谈及墨西哥和加拿大对USMCA问题的反应，表示：加拿大并没有在那些（美国总统特朗普）重视的领域遵守承诺。 正与墨西哥密切合作，他们是“讲求实际的”。 预计2026年1月份，美墨加将为了修订USMCA而坐下来（讨论）。",
@@ -615,17 +661,6 @@
           "time_info": "05时25分"
         },
         {
-          "title": "特朗普演讲中低俗调侃议员老婆",
-          "url": "https://www.toutiao.com/trending/7581732466420973574/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时44分"
-        },
-        {
           "title": "据英国金融时报：美国总统特朗普给予泽连斯基“几日时间”回应和平提议。",
           "url": "https://flash.jin10.com/detail/20251210015537022800",
           "source": "金十数据",
@@ -637,13 +672,24 @@
           "time_info": "02时51分"
         },
         {
+          "title": "英国首相新闻秘书：美国总统特朗普对伦敦市长萨迪克·汗的评论是错误的。",
+          "url": "https://flash.jin10.com/detail/20251210205554791800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
           "title": "瑞士选举帕尔梅兰为2026年总统 将主持达沃斯论坛再迎特朗普",
           "url": "https://flash.jin10.com/detail/20251210193900379800",
           "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时44分"
         },
@@ -657,17 +703,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时58分"
-        },
-        {
-          "title": "特朗普夸白宫发言人漂亮",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%B8%E7%99%BD%E5%AE%AB%E5%8F%91%E8%A8%80%E4%BA%BA%E6%BC%82%E4%BA%AE",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时44分"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：特朗普政府停摆事件对数据有太多的影响。 在正常情况下，政府关门会造成信心崩塌。 总统特朗普会陈述经济的实情。",
@@ -684,7 +719,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "英伟达盘前冲高2%后回落 美股三大期指涨跌不一 | 今夜看点",
@@ -828,6 +863,17 @@
           "time_info": "02时51分"
         },
         {
+          "title": "光掩模供应商Photronics美股盘前大涨15%，公司第一季度营收预期超出预期。",
+          "url": "https://wallstreetcn.com/livenews/3018453",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
           "title": "美股七巨头收盘播报｜特斯拉收涨将近1.3%，Meta跌约1.5%",
           "url": "https://wallstreetcn.com/livenews/3017889",
           "source": "华尔街见闻-快讯",
@@ -853,7 +899,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "OpenAI：作为这项工作的一部分，我们正在向AAIF网站贡献Agents.MD。",
@@ -926,6 +972,17 @@
           "time_info": "[03时20分 ~ 04时28分]"
         },
         {
+          "title": "Adobe：将Adobe Photoshop、Adobe Express、Adobe Acrobat直接引入ChatGPT。 将在接下来的几周内，继续为ChatGPT中的Adobe应用添加新功能。",
+          "url": "https://wallstreetcn.com/livenews/3018469",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
           "title": "市场消息：OpenAI与Linux基金会共同创立了Agentic AI基金会。",
           "url": "https://flash.jin10.com/detail/20251210010503413800",
           "source": "金十数据",
@@ -935,6 +992,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
+        },
+        {
+          "title": "ChatGPT整合Adobe Photoshop等部分软件功能",
+          "url": "https://flash.jin10.com/detail/20251210210732222800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         },
         {
           "title": "ChatGPT周活跃用户数接近9亿。（The Information）",
@@ -957,12 +1025,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
+        },
+        {
+          "title": "Adobe：将Adobe Photoshop、Adobe Express和Adobe Acrobat直接接入ChatGPT。",
+          "url": "https://flash.jin10.com/detail/20251210210023476800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "Gemini 3赢了下载却输了习惯？ChatGPT仍垄断90%移动端会话，日均打开超8次",
@@ -1022,6 +1101,17 @@
           "time_info": "19时19分"
         },
         {
+          "title": "标普全球与谷歌云签署多年合作协议。",
+          "url": "https://flash.jin10.com/detail/20251210210123697800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
           "title": "谷歌云：推出由Gemini驱动的编码智能体AlphaEvolve，可用于设计高级算法，现已开启私密预览。",
           "url": "https://flash.jin10.com/detail/20251210023813881800",
           "source": "金十数据",
@@ -1046,8 +1136,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时06分 ~ 20时44分]"
+          "appearance_count": 11,
+          "time_info": "[10时06分 ~ 21时37分]"
         },
         {
           "title": "三大美股指跌，H200消息刺激英伟达反弹，美债收益率两个月来新高，伦铜续创新高",
@@ -1079,7 +1169,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时44分"
         },
@@ -1101,7 +1191,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时44分"
         }
