@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-22T20:43:10.231711+08:00",
-  "total_titles_processed": 1614,
+  "generated_at": "2025-12-22T21:35:09.224618+08:00",
+  "total_titles_processed": 1706,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "美联储主席之争进入白热化了，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
@@ -51,8 +51,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时28分 ~ 20时43分]"
+          "appearance_count": 9,
+          "time_info": "[17时28分 ~ 21时35分]"
         },
         {
           "title": "美国全面加速太空军备：特朗普定调“太空优势”，35亿美元卫星订单紧随其后",
@@ -83,8 +83,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时40分 ~ 20时43分]"
+          "appearance_count": 14,
+          "time_info": "[12时40分 ~ 21时35分]"
         },
         {
           "title": "美外交人员协会：特朗普正解雇多名拜登任命的驻外大使",
@@ -114,6 +114,17 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[02时28分 ~ 16时31分]"
+        },
+        {
+          "title": "特朗普换大使细节披露：涉及全球近30国，均拜登时期上任",
+          "url": "https://news.ifeng.com/c/8pI8Lyv4ZR4",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时28分 ~ 21时35分]"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：目前核心通胀率的三个月平均值为1.6%；特朗普在美联储主席候选人中寻求数据依赖型人选。",
@@ -198,17 +209,6 @@
           "time_info": "[00时24分 ~ 06时20分]"
         },
         {
-          "title": "特朗普换大使细节披露：涉及全球近30国，均拜登时期上任",
-          "url": "https://news.ifeng.com/c/8pI8Lyv4ZR4",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时28分 ~ 20时43分]"
-        },
-        {
           "title": "特朗普表态：必须是“超级鸽派”！",
           "url": "https://news.ifeng.com/c/8pI2JngwUGB",
           "source": "凤凰网",
@@ -242,6 +242,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[16时31分 ~ 18时23分]"
+        },
+        {
+          "title": "特朗普让克林顿成了主角",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A9%E5%85%8B%E6%9E%97%E9%A1%BF%E6%88%90%E4%BA%86%E4%B8%BB%E8%A7%92",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时19分 ~ 21时35分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-21）",
@@ -282,18 +295,6 @@
           "time_info": "[05时18分 ~ 07时19分]"
         },
         {
-          "title": "特朗普让克林顿成了主角",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A9%E5%85%8B%E6%9E%97%E9%A1%BF%E6%88%90%E4%BA%86%E4%B8%BB%E8%A7%92",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时19分 ~ 20时43分]"
-        },
-        {
           "title": "丹麦对特朗普任命格陵兰岛特使深感不满",
           "url": "https://wallstreetcn.com/livenews/3024905",
           "source": "华尔街见闻-快讯",
@@ -315,6 +316,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时46分 ~ 09时47分]"
+        },
+        {
+          "title": "据华盛顿邮报：特朗普召回驻外使馆及代表团的48名美国大使。",
+          "url": "https://flash.jin10.com/detail/20251222211021305800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
         },
         {
           "title": "丹麦外交部长：美国总统特朗普任命驻格陵兰岛特别使节，证实美国仍对格陵兰岛感兴趣。",
@@ -443,6 +455,17 @@
           "time_info": "07时19分"
         },
         {
+          "title": "伊朗军队司令：伊朗正在密切监视敌人动向",
+          "url": "https://news.ifeng.com/c/8pIUWrKwH7S",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时19分 ~ 21时35分]"
+        },
+        {
           "title": "美媒：以色列或再打伊朗",
           "url": "https://www.douyin.com/hot/2343367",
           "source": "抖音",
@@ -456,15 +479,16 @@
           "time_info": "[11时43分 ~ 17时29分]"
         },
         {
-          "title": "伊朗军队司令：伊朗正在密切监视敌人动向",
-          "url": "https://news.ifeng.com/c/8pIUWrKwH7S",
-          "source": "凤凰网",
+          "title": "专家：伊朗军事能力恢复令以色列不安",
+          "url": "https://www.toutiao.com/trending/7586595603497356842/",
+          "source": "今日头条",
           "ranks": [
-            8
+            30,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时19分 ~ 20时43分]"
+          "appearance_count": 4,
+          "time_info": "[20时42分 ~ 21时35分]"
         },
         {
           "title": "伊朗要下场帮委内瑞拉了吗",
@@ -489,17 +513,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时19分 ~ 20时43分]"
-        },
-        {
-          "title": "专家：伊朗军事能力恢复令以色列不安",
-          "url": "https://www.toutiao.com/trending/7586595603497356842/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时42分 ~ 20时43分]"
         },
         {
           "title": "一位美国消息人士表示，美国情报部门目前没有迹象表明伊朗即将（对以色列）发动袭击。",
@@ -527,7 +540,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "押注“圣诞行情”！全球股市普涨，美股期货走高，黄金站上4400，白银续刷新高，油价反弹超1%，日元小幅上涨",
@@ -565,11 +578,12 @@
             12,
             7,
             6,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时24分 ~ 20时43分]"
+          "appearance_count": 11,
+          "time_info": "[15时24分 ~ 21时35分]"
         },
         {
           "title": "美银Hartnett：市场聚焦美股大涨“迎新”可能性，唯一风险是“市场过于乐观”",
@@ -585,13 +599,24 @@
           "time_info": "[00时24分 ~ 07时19分]"
         },
         {
+          "title": "科技股反弹引领市场！美股期货走高，“Mag7”普涨，英伟达盘前涨2%，甲骨文涨超2%，油价反弹超2%",
+          "url": "https://wallstreetcn.com/articles/3761821",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时34分 ~ 21时35分]"
+        },
+        {
           "title": "英伟达美股盘前拉升， 现涨近2%。",
           "url": "https://wallstreetcn.com/livenews/3024963",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         },
@@ -623,22 +648,35 @@
           "url": "https://wallstreetcn.com/livenews/3024941",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时43分 ~ 21时35分]"
         },
         {
           "title": "霍尼韦尔预计全年调整后销售额为375亿-377亿美元，此前预期为407亿-409亿美元。 霍尼韦尔预计全年调整后每股收益为9.70-9.80美元（剔除先进材料业务影响后）。 霍尼韦尔预计第四季度调整后销售额为98亿-100亿美元，此前预期为101亿-103亿美元。 霍尼韦尔预计第四季度调整后每股收益为2.48-2.58美元，此前预期为2.52-2.62美元。 霍尼韦尔美股盘前跌超3%。",
           "url": "https://wallstreetcn.com/livenews/3024927",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            17,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时43分 ~ 21时35分]"
+        },
+        {
+          "title": "英伟达美股盘前拉升， 现涨近2%",
+          "url": "https://wallstreetcn.com/livenews/3024963",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时43分"
+          "time_info": "21时35分"
         }
       ]
     },
@@ -805,7 +843,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         }
