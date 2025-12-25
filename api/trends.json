@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-25T12:38:32.968593+08:00",
-  "total_titles_processed": 975,
+  "generated_at": "2025-12-25T13:25:32.286285+08:00",
+  "total_titles_processed": 1067,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时26分 ~ 12时38分]"
+          "appearance_count": 14,
+          "time_info": "[00时26分 ~ 13时25分]"
         },
         {
           "title": "特朗普要建“特朗普级”战列舰，称战力爆棚，专家打出多个问号",
@@ -61,7 +61,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时38分"
         },
@@ -191,8 +191,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时42分 ~ 12时38分]"
+          "appearance_count": 5,
+          "time_info": "[09时42分 ~ 13时25分]"
         },
         {
           "title": "美股收盘：三大指数连涨五日 道指、标普双双收新高",
@@ -420,11 +420,12 @@
           "ranks": [
             13,
             9,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时42分 ~ 12时38分]"
+          "appearance_count": 5,
+          "time_info": "[09时42分 ~ 13时25分]"
         },
         {
           "title": "金价狂飙 千元内几乎买不到金饰",
@@ -433,11 +434,12 @@
           "ranks": [
             30,
             24,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时42分 ~ 12时38分]"
+          "appearance_count": 5,
+          "time_info": "[09时42分 ~ 13时25分]"
         },
         {
           "title": "金价又创历史新高",
