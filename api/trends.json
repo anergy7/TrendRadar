@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T12:48:36.821657+08:00",
-  "total_titles_processed": 1025,
+  "generated_at": "2026-02-05T13:56:19.446008+08:00",
+  "total_titles_processed": 1127,
   "failed_sources": [],
   "trends": [
     {
@@ -51,8 +51,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时48分 ~ 12时48分]"
+          "appearance_count": 16,
+          "time_info": "[00时48分 ~ 13时56分]"
         },
         {
           "title": "详讯丨习近平同美国总统特朗普通电话",
@@ -67,8 +67,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时45分 ~ 12时48分]"
+          "appearance_count": 14,
+          "time_info": "[01时45分 ~ 13时56分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -82,6 +82,17 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时48分 ~ 10时03分]"
+        },
+        {
+          "title": "特朗普：中美元首通话内容详实，气氛积极",
+          "url": "https://news.ifeng.com/c/8qUQ05iiX1G",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时03分 ~ 13时56分]"
         },
         {
           "title": "企图在高尔夫球场刺杀特朗普的枪手被判终身监禁",
@@ -106,15 +117,16 @@
           "time_info": "[07时28分 ~ 10时03分]"
         },
         {
-          "title": "特朗普：中美元首通话内容详实，气氛积极",
-          "url": "https://news.ifeng.com/c/8qUQ05iiX1G",
-          "source": "凤凰网",
+          "title": "降息快了？特朗普直言：若沃什表达过加息意愿 就不会获提名！",
+          "url": "https://www.cls.cn/detail/2281033",
+          "source": "财联社热门",
           "ranks": [
-            1
+            5,
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时03分 ~ 12时48分]"
+          "time_info": "[12时48分 ~ 13时56分]"
         },
         {
           "title": "美国总统特朗普：美联储将下调利率，这是毫无疑问的。 我认为，美联储主席提名人沃什无论如何都想要降息。",
@@ -126,17 +138,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时39分"
-        },
-        {
-          "title": "降息快了？特朗普直言：若沃什表达过加息意愿 就不会获提名！",
-          "url": "https://www.cls.cn/detail/2281033",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时48分"
         },
         {
           "title": "美国财长贝森特：已有超过100万美国家庭为2025年至2028年出生的儿童注册了“特朗普账户”。",
@@ -381,7 +382,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         },
@@ -400,7 +401,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "美军称击落伊朗无人机，双方在危险的边缘互相试探？",
@@ -477,6 +478,18 @@
           "time_info": "[04时37分 ~ 05时33分]"
         },
         {
+          "title": "鲁比奥否认向伊朗让步，透露美方条件",
+          "url": "https://news.ifeng.com/c/8qUUgmewA1z",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时03分 ~ 13时56分]"
+        },
+        {
           "title": "伊朗外长：伊美谈判将于6日在阿曼首都马斯喀特举行",
           "url": "https://news.ifeng.com/c/8qTBVSJTlkn",
           "source": "凤凰网",
@@ -486,18 +499,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时28分 ~ 07时28分]"
-        },
-        {
-          "title": "鲁比奥否认向伊朗让步，透露美方条件",
-          "url": "https://news.ifeng.com/c/8qUUgmewA1z",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时03分 ~ 12时48分]"
         },
         {
           "title": "报道称伊朗炮艇逼近挂美国旗油轮、接近美航母的伊无人机被美击落，原油跳涨",
@@ -521,6 +522,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时39分 ~ 04时37分]"
+        },
+        {
+          "title": "一图看懂｜调重兵前往中东，美军目前在伊朗周边军事集结如何？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32533277",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 13时56分]"
         },
         {
           "title": "卡塔尔首相与伊朗外长通电话 讨论地区局势",
@@ -565,17 +578,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时37分"
-        },
-        {
-          "title": "一图看懂｜调重兵前往中东，美军目前在伊朗周边军事集结如何？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32533277",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时48分"
         },
         {
           "title": "美国国务卿鲁比奥：伊朗谈判还必须解决抗议活动和代理组织问题。",
@@ -664,12 +666,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
+        },
+        {
+          "title": "伊朗议员喊话对美以先发制人打击",
+          "url": "https://www.toutiao.com/trending/7602104713643474982/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时56分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "谷歌All in AI：Q4云收入猛增48%，今年支出指引接近翻倍大超预期，盘后巨震 | 财报见闻",
@@ -679,8 +692,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时03分 ~ 12时48分]"
+          "appearance_count": 3,
+          "time_info": "[10时03分 ~ 13时56分]"
         },
         {
           "title": "谷歌母公司Alphabet（GOOGL）美股盘后跌1.69%，该公司分析师电话会已经结束。",
@@ -716,6 +729,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时33分 ~ 07时28分]"
+        },
+        {
+          "title": "谷歌ALL in AI！Q4云业务激增48% 2026“烧钱”速度翻倍",
+          "url": "https://www.cls.cn/detail/2281032",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时03分 ~ 13时56分]"
         },
         {
           "title": "Alphabet(GOOG.O)CEO皮查伊：苹果(AAPL.O)选择谷歌云作为其首选云服务提供商。",
@@ -804,18 +830,6 @@
           "time_info": "[06时29分 ~ 07时28分]"
         },
         {
-          "title": "谷歌ALL in AI！Q4云业务激增48% 2026“烧钱”速度翻倍",
-          "url": "https://www.cls.cn/detail/2281032",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时03分 ~ 12时48分]"
-        },
-        {
           "title": "谷歌母公司Alphabet：谷歌Gemini服务部门成本较2025年下调78%。 YouTube年收入突破600亿美元。 Alphabet按优先云供应商的身份与苹果公司合作。 Gemini企业用户超过12万，同比增幅65%。 AI Solutions收入同比增长超过300%。 12月份，自动驾驶部门Waymo出行次数超过2000万。 直播间设备商Podcast观众较2025年增长75%。",
           "url": "https://wallstreetcn.com/livenews/3050115",
           "source": "华尔街见闻-快讯",
@@ -896,6 +910,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "谷歌财报电话会实录：首要任务是提高算力 否认“AI取代软件”担忧",
+          "url": "https://www.cls.cn/detail/2281205",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时56分"
         },
         {
           "title": "Alphabet(GOOG.O)高管：谷歌云的积压订单环比增长55%，同比增长一倍多，截至第四季度末达到2400亿美元。",
@@ -985,8 +1010,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时28分 ~ 12时48分]"
+          "appearance_count": 4,
+          "time_info": "[07时28分 ~ 13时56分]"
         },
         {
           "title": "Arm(ARM.O)美股盘后跌超10%。",
