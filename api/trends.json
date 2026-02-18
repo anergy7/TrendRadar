@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-18T15:51:07.784330+08:00",
-  "total_titles_processed": 1138,
+  "generated_at": "2026-02-18T16:44:56.673458+08:00",
+  "total_titles_processed": 1217,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "美国专家：美伊谈判前景像掷硬币，关键在于特朗普的决策",
@@ -52,8 +52,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时11分 ~ 15时51分]"
+          "appearance_count": 7,
+          "time_info": "[10时11分 ~ 16时44分]"
         },
         {
           "title": "美国纽约市市长：美国总统特朗普政府再次解冻了7700万美元的纽约隧道资金。",
@@ -65,17 +65,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
-        },
-        {
-          "title": "美空军确认“空军一号”新涂装将采用特朗普偏爱的配色：红、白、金、深蓝",
-          "url": "https://flash.jin10.com/detail/20260218152713560800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时51分"
         },
         {
           "title": "特朗普涉台最新表态，台当局和日本都慌了",
@@ -98,6 +87,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
+        },
+        {
+          "title": "特朗普、拜登、奥巴马、克林顿齐发声",
+          "url": "https://news.ifeng.com/c/8qqUCbPAN8F",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
         },
         {
           "title": "英媒：特朗普政府升级对美消费者金融保护局打击力度",
@@ -132,6 +132,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时38分 ~ 07时29分]"
+        },
+        {
+          "title": "美空军确认“空军一号”新涂装将采用特朗普偏爱的配色：红、白、金、深蓝",
+          "url": "https://flash.jin10.com/detail/20260218152713560800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时51分 ~ 16时44分]"
         },
         {
           "title": "美国总统特朗普：宣布关于得州、俄亥俄州、以及佐治亚州的项目。 得州项目包括石油和天然其的战略领域。 佐治亚州项目与关键矿物有关。",
@@ -415,7 +427,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "伊朗外长披露与美方谈判结果",
@@ -470,11 +482,36 @@
           "ranks": [
             14,
             13,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时11分 ~ 16时44分]"
+        },
+        {
+          "title": "美军 18 架战机飞向中东，伊朗举行军演，谈判前夕互亮「底牌」，双方有哪些核心分歧？最终结果可能如何？",
+          "url": "https://www.zhihu.com/question/2007003476190786977",
+          "source": "知乎",
+          "ranks": [
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时53分 ~ 16时44分]"
+        },
+        {
+          "title": "伊朗外长称就伊美谈判“指导原则”达成一致，布油一度跌近3%",
+          "url": "https://wallstreetcn.com/articles/3765814",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
             10
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[10时11分 ~ 15时51分]"
+          "time_info": "[12时53分 ~ 16时44分]"
         },
         {
           "title": "伊美技术层面谈判已开始，伊朗军演进行中",
@@ -499,28 +536,15 @@
           "time_info": "03时02分"
         },
         {
-          "title": "美军 18 架战机飞向中东，伊朗举行军演，谈判前夕互亮「底牌」，双方有哪些核心分歧？最终结果可能如何？",
-          "url": "https://www.zhihu.com/question/2007003476190786977",
-          "source": "知乎",
+          "title": "伊朗说永不寻求核武并随时接受核查",
+          "url": "https://wallstreetcn.com/livenews/3056251",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11,
-            6
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时53分 ~ 15时51分]"
-        },
-        {
-          "title": "伊朗外长称就伊美谈判“指导原则”达成一致，布油一度跌近3%",
-          "url": "https://wallstreetcn.com/articles/3765814",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时53分 ~ 15时51分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
         },
         {
           "title": "伊朗外长要求美国停止动武威胁",
@@ -678,6 +702,18 @@
       "match_count": 16,
       "titles": [
         {
+          "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
+          "url": "https://wallstreetcn.com/articles/3765810",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时11分 ~ 16时44分]"
+        },
+        {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
           "url": "https://www.cls.cn/detail/2291237",
           "source": "财联社热门",
@@ -688,20 +724,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时58分 ~ 15时51分]"
-        },
-        {
-          "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
-          "url": "https://wallstreetcn.com/articles/3765810",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时11分 ~ 15时51分]"
+          "appearance_count": 15,
+          "time_info": "[00时58分 ~ 16时44分]"
         },
         {
           "title": "美股休市，科技股拖累欧股反弹，黄金失去“中国动力”失守5000美元，人民币涨破6.89",
@@ -723,8 +747,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时11分 ~ 15时51分]"
+          "appearance_count": 7,
+          "time_info": "[10时11分 ~ 16时44分]"
         },
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，大宗商品普跌，英央行降息预期上升，英镑一度跳水1%",
