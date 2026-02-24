@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T05:47:36.598108+08:00",
-  "total_titles_processed": 483,
+  "generated_at": "2026-02-25T07:31:42.027449+08:00",
+  "total_titles_processed": 572,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时13分 ~ 05时47分]"
+          "appearance_count": 4,
+          "time_info": "[01时13分 ~ 07时31分]"
         },
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时13分 ~ 05时47分]"
+          "appearance_count": 4,
+          "time_info": "[01时13分 ~ 07时31分]"
         },
         {
           "title": "特朗普第二任期首场国情咨文会谈什么？“剧透”来了",
@@ -37,8 +37,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时13分 ~ 05时47分]"
+          "appearance_count": 4,
+          "time_info": "[01时13分 ~ 07时31分]"
+        },
+        {
+          "title": "美国众议长称，最高法院关税裁决对特朗普是“一记重击”",
+          "url": "https://wallstreetcn.com/livenews/3058387",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         },
         {
           "title": "美国总统特朗普将通过预算协调程序公布减税计划。（CNBC）",
@@ -47,9 +58,23 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时47分"
+        },
+        {
+          "title": "报道：特朗普拟用AI定关键矿产参考价，锗、镓、锑、钨首批纳入",
+          "url": "https://wallstreetcn.com/articles/3766081",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时13分 ~ 07时31分]"
         },
         {
           "title": "乌克兰驻美大使斯特凡尼希娜：预计将在美国总统特朗普的国情咨文演讲中听到有关结束冲突的信息。",
@@ -68,35 +93,36 @@
           "source": "抖音",
           "ranks": [
             8,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时13分 ~ 05时47分]"
-        },
-        {
-          "title": "报道：特朗普拟用AI定关键矿产参考价，锗、镓、锑、钨首批纳入",
-          "url": "https://wallstreetcn.com/articles/3766081",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时13分 ~ 05时47分]"
+          "appearance_count": 4,
+          "time_info": "[01时13分 ~ 07时31分]"
         },
         {
           "title": "中方回应特朗普3月31日将访问中国",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE3%E6%9C%8831%E6%97%A5%E5%B0%86%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=6&Refer=top",
           "source": "微博",
           "ranks": [
-            6
+            6,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时47分 ~ 07时31分]"
+        },
+        {
+          "title": "白宫：特朗普对伊朗首选方案是外交",
+          "url": "https://www.baidu.com/s?wd=%E7%99%BD%E5%AE%AB%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E4%BC%8A%E6%9C%97%E9%A6%96%E9%80%89%E6%96%B9%E6%A1%88%E6%98%AF%E5%A4%96%E4%BA%A4",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时47分 ~ 07时31分]"
         },
         {
           "title": "美国民主党指责司法部为特朗普“打掩护” 关键证据或遭扣押",
@@ -105,7 +131,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时47分"
         },
@@ -127,7 +153,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时47分"
         },
@@ -143,24 +169,24 @@
           "time_info": "01时13分"
         },
         {
+          "title": "市场消息：特朗普将于周三举行会议，讨论政府振兴弗吉尼亚州杜勒斯机场的计划。",
+          "url": "https://flash.jin10.com/detail/20260225062520187800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
           "title": "美国进口商请求法院执行特朗普关税败诉裁决、索要退款。",
           "url": "https://wallstreetcn.com/livenews/3058339",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时47分"
-        },
-        {
-          "title": "白宫：特朗普对伊朗首选方案是外交",
-          "url": "https://www.baidu.com/s?wd=%E7%99%BD%E5%AE%AB%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E4%BC%8A%E6%9C%97%E9%A6%96%E9%80%89%E6%96%B9%E6%A1%88%E6%98%AF%E5%A4%96%E4%BA%A4",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时47分"
         },
@@ -198,6 +224,17 @@
           "time_info": "01时13分"
         },
         {
+          "title": "据CNBC：特朗普将通过预算协调程序公布减税计划。",
+          "url": "https://flash.jin10.com/detail/20260225052942727800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
           "title": "美国参议院民主党成员Warren：总统特朗普的美联储主席提名人凯文·沃什不会独立自主地做出经济决策。 我会质询特朗普的任何美联储官员提名人，他们在哪些地方不认可特朗普（的意见/做法）。",
           "url": "https://wallstreetcn.com/livenews/3058232",
           "source": "华尔街见闻-快讯",
@@ -212,7 +249,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
@@ -254,7 +291,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时47分"
         },
@@ -265,7 +302,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时47分"
         },
@@ -276,7 +313,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时47分"
         },
@@ -301,8 +338,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时13分 ~ 05时47分]"
+          "appearance_count": 4,
+          "time_info": "[01时13分 ~ 07时31分]"
         },
         {
           "title": "美股收盘：三大股指收涨 AMD大涨超8%",
@@ -311,9 +348,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时47分"
+        },
+        {
+          "title": "美股收盘：软件板块回暖三大指数齐涨 空头突袭存储牛股",
+          "url": "https://www.cls.cn/detail/2294131",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         },
         {
           "title": "新兴市场ETF收涨将近1.6%，领跑美股大类资产类ETF，黄金ETF跌约1.4%",
@@ -322,9 +370,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时47分"
+        },
+        {
+          "title": "惠普（HPQ）美股盘后跌幅扩大至将近7%，存储芯片打压其业绩展望。",
+          "url": "https://wallstreetcn.com/livenews/3058381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         },
         {
           "title": "全球科技股指数ETF收涨超1.7%，和网络股指数ETF领跑美股行业ETF",
@@ -333,7 +392,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时47分"
         },
@@ -366,7 +425,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时47分"
         }
@@ -381,11 +440,12 @@
           "url": "https://www.toutiao.com/trending/7609535429876056107/",
           "source": "今日头条",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时13分 ~ 05时47分]"
+          "appearance_count": 4,
+          "time_info": "[01时13分 ~ 07时31分]"
         },
         {
           "title": "伊朗外长：希望在最短时间内与美国达成公平协议",
@@ -408,21 +468,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时13分 ~ 05时47分]"
-        },
-        {
-          "title": "美军参联会主席警告：对伊朗动武可能带来重大风险",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32647811",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时13分 ~ 05时47分]"
+          "appearance_count": 4,
+          "time_info": "[01时13分 ~ 07时31分]"
         },
         {
           "title": "WW3预热,美国对伊朗动手",
@@ -433,8 +480,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时13分 ~ 05时47分]"
+          "appearance_count": 4,
+          "time_info": "[01时13分 ~ 07时31分]"
         },
         {
           "title": "伊朗一军用直升机坠毁",
@@ -444,6 +491,19 @@
             16,
             17,
             18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时13分 ~ 07时31分]"
+        },
+        {
+          "title": "美军参联会主席警告：对伊朗动武可能带来重大风险",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32647811",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            11,
+            12
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -569,7 +629,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "周二（2月24日）纽约尾盘，美国10年期国债收益率涨1.76个基点，报4.0385%。 两年期美债收益率涨2.09个基点，报3.4590%；30年期美债收益率跌0.58个基点，报4.6962%。 2/10年期美债收益率利差跌1.124个基点，报+57.552个基点。 10年期通胀保值国债（TIPS）收益率持平，报1.7694%；两年期TIPS收益率涨2.23个基点，至0.7337%；30年期TIPS收益率跌1.06个基点，至2.4819%。",
@@ -578,9 +638,54 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时47分"
+        },
+        {
+          "title": "美债市场持仓更新：债券交易员押注美联储降息将持续至2027年",
+          "url": "https://wallstreetcn.com/livenews/3058362",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中方回应美称DeepSeek违反美出口管制",
+          "url": "https://www.toutiao.com/trending/7610332842534374955/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI：欢迎美国法院针对x.AI官司的决定。",
+          "url": "https://wallstreetcn.com/livenews/3058374",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         }
       ]
     }
