@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T12:54:07.417514+08:00",
-  "total_titles_processed": 907,
+  "generated_at": "2026-02-25T14:01:35.873587+08:00",
+  "total_titles_processed": 992,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 59,
+      "match_count": 62,
       "titles": [
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -15,19 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时13分 ~ 12时54分]"
-        },
-        {
-          "title": "特朗普称将会在3月31日访问中国，外交部回应",
-          "url": "https://www.cls.cn/detail/2293557",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时13分 ~ 07时31分]"
+          "appearance_count": 8,
+          "time_info": "[01时13分 ~ 14时01分]"
         },
         {
           "title": "报道：特朗普拟用AI定关键矿产参考价，锗、镓、锑、钨首批纳入",
@@ -41,8 +30,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时13分 ~ 12时54分]"
+          "appearance_count": 8,
+          "time_info": "[01时13分 ~ 14时01分]"
+        },
+        {
+          "title": "特朗普称将会在3月31日访问中国，外交部回应",
+          "url": "https://www.cls.cn/detail/2293557",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时13分 ~ 07时31分]"
         },
         {
           "title": "特朗普第二任期首场国情咨文会谈什么？“剧透”来了",
@@ -63,8 +63,32 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时53分 ~ 12时54分]"
+          "appearance_count": 3,
+          "time_info": "[12时53分 ~ 14时01分]"
+        },
+        {
+          "title": "特朗普：100%错误",
+          "url": "https://news.ifeng.com/c/8r1UTBsOox0",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时08分 ~ 14时01分]"
+        },
+        {
+          "title": "特朗普打还是不打，只是时间问题了",
+          "url": "https://news.ifeng.com/c/8r1bJIeSigy",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时08分 ~ 14时01分]"
         },
         {
           "title": "美媒曝光特朗普国情咨文 提及住房、成本、国家安全等内容",
@@ -78,16 +102,16 @@
           "time_info": "10时08分"
         },
         {
-          "title": "特朗普：100%错误",
-          "url": "https://news.ifeng.com/c/8r1UTBsOox0",
-          "source": "凤凰网",
+          "title": "特朗普：伊朗正研制很快打到美国的导弹",
+          "url": "https://www.toutiao.com/trending/7610645788871364115/",
+          "source": "今日头条",
           "ranks": [
             6,
             2
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时08分 ~ 12时54分]"
+          "time_info": "[12时53分 ~ 14时01分]"
         },
         {
           "title": "特朗普夫人梅拉尼娅在国情咨文演讲上身着杜嘉班纳服饰。",
@@ -112,17 +136,6 @@
           "time_info": "07时31分"
         },
         {
-          "title": "弗吉尼亚州州长斯潘伯格：美国总统特朗普正筹划新关税，其力度堪比大规模加税。",
-          "url": "https://flash.jin10.com/detail/20260225121648684800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时54分"
-        },
-        {
           "title": "美国总统特朗普将通过预算协调程序公布减税计划。（CNBC）",
           "url": "https://wallstreetcn.com/livenews/3058357",
           "source": "华尔街见闻-快讯",
@@ -132,18 +145,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时47分"
-        },
-        {
-          "title": "特朗普打还是不打，只是时间问题了",
-          "url": "https://news.ifeng.com/c/8r1bJIeSigy",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时08分 ~ 12时54分]"
         },
         {
           "title": "乌克兰驻美大使斯特凡尼希娜：预计将在美国总统特朗普的国情咨文演讲中听到有关结束冲突的信息。",
@@ -170,15 +171,27 @@
           "time_info": "[01时13分 ~ 07时31分]"
         },
         {
-          "title": "特朗普：伊朗正研制很快打到美国的导弹",
-          "url": "https://www.toutiao.com/trending/7610645788871364115/",
-          "source": "今日头条",
+          "title": "弗吉尼亚州州长斯潘伯格：美国总统特朗普正筹划新关税，其力度堪比大规模加税。",
+          "url": "https://flash.jin10.com/detail/20260225121648684800",
+          "source": "金十数据",
           "ranks": [
-            6
+            4,
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时53分 ~ 12时54分]"
+          "time_info": "[12时54分 ~ 14时01分]"
+        },
+        {
+          "title": "特朗普：伊朗正研制能打到美国的导弹",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BC%8A%E6%9C%97%E6%AD%A3%E7%A0%94%E5%88%B6%E8%83%BD%E6%89%93%E5%88%B0%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%AF%BC%E5%BC%B9",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时53分 ~ 14时01分]"
         },
         {
           "title": "中方回应特朗普3月31日将访问中国",
@@ -227,17 +240,6 @@
           "time_info": "[05时47分 ~ 07时31分]"
         },
         {
-          "title": "特朗普：伊朗正研制能打到美国的导弹",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BC%8A%E6%9C%97%E6%AD%A3%E7%A0%94%E5%88%B6%E8%83%BD%E6%89%93%E5%88%B0%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%AF%BC%E5%BC%B9",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时53分 ~ 12时54分]"
-        },
-        {
           "title": "美国总统特朗普将于十分钟后发表国情咨文。",
           "url": "https://flash.jin10.com/detail/20260225095000000800",
           "source": "金十数据",
@@ -255,9 +257,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
+        },
+        {
+          "title": "多数美国人称特朗普愈发反复无常",
+          "url": "https://www.toutiao.com/trending/7609682757731647524/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
         },
         {
           "title": "特朗普走上“关税悬崖”",
@@ -299,7 +312,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
         },
@@ -310,7 +323,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
         },
@@ -321,7 +334,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
         },
@@ -332,7 +345,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
         },
@@ -354,9 +367,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
+        },
+        {
+          "title": "特朗普：北约国家向美国全额购买武器并交付乌克兰",
+          "url": "https://flash.jin10.com/detail/20260225124552182800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
         },
         {
           "title": "据华尔街日报：消息人士称，美国总统特朗普政府考虑采取行动，要求银行收集客户国籍信息。关于潜在的新行政命令尚未作出最终决定。",
@@ -398,7 +422,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
         },
@@ -447,6 +471,17 @@
           "time_info": "10时08分"
         },
         {
+          "title": "弗吉尼亚州州长斯潘伯格：美国总统特朗普的政策只利于他本人及其圈子。",
+          "url": "https://flash.jin10.com/detail/20260225124021948800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
+        },
+        {
           "title": "市场消息：美国总统特朗普将表示，作为总统，我会尽可能地促进和平，但只要是我们必须采取行动的时候，我绝不会退缩，会毫不犹豫地应对对美国构成的威胁。",
           "url": "https://flash.jin10.com/detail/20260225093816678800",
           "source": "金十数据",
@@ -464,7 +499,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
         },
@@ -508,7 +543,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
         },
@@ -519,7 +554,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
         },
@@ -530,7 +565,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
         },
@@ -541,7 +576,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
         },
@@ -563,7 +598,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
         },
@@ -596,7 +631,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
         },
@@ -662,7 +697,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
         }
@@ -670,7 +705,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "在伊朗中国人：华联会已准备撤离方案",
@@ -683,6 +718,47 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时13分 ~ 07时31分]"
+        },
+        {
+          "title": "伊朗一军用直升机坠毁",
+          "url": "https://www.douyin.com/hot/2410332",
+          "source": "抖音",
+          "ranks": [
+            16,
+            17,
+            18,
+            12,
+            20,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时13分 ~ 14时01分]"
+        },
+        {
+          "title": "WW3预热,美国对伊朗动手",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350882&amp;topic_name=WW3%E9%A2%84%E7%83%AD%2C%E7%BE%8E%E5%9B%BD%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8A%A8%E6%89%8B",
+          "source": "贴吧",
+          "ranks": [
+            16,
+            17,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时13分 ~ 14时01分]"
+        },
+        {
+          "title": "伊朗大规模军演 试射多种导弹",
+          "url": "https://www.douyin.com/hot/2410859",
+          "source": "抖音",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时53分 ~ 14时01分]"
         },
         {
           "title": "中方回应“美考虑军事打击伊朗”",
@@ -699,34 +775,6 @@
           "time_info": "[01时13分 ~ 10时08分]"
         },
         {
-          "title": "伊朗一军用直升机坠毁",
-          "url": "https://www.douyin.com/hot/2410332",
-          "source": "抖音",
-          "ranks": [
-            16,
-            17,
-            18,
-            12,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时13分 ~ 12时54分]"
-        },
-        {
-          "title": "WW3预热,美国对伊朗动手",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350882&amp;topic_name=WW3%E9%A2%84%E7%83%AD%2C%E7%BE%8E%E5%9B%BD%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8A%A8%E6%89%8B",
-          "source": "贴吧",
-          "ranks": [
-            16,
-            17,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时13分 ~ 12时54分]"
-        },
-        {
           "title": "媒体：伊朗即将购入中国超音速反舰导弹",
           "url": "https://news.ifeng.com/c/8r1iOMfEAgf",
           "source": "凤凰网",
@@ -734,19 +782,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时53分 ~ 12时54分]"
+          "appearance_count": 3,
+          "time_info": "[12时53分 ~ 14时01分]"
         },
         {
-          "title": "伊朗大规模军演 试射多种导弹",
-          "url": "https://www.douyin.com/hot/2410859",
-          "source": "抖音",
+          "title": "美大军压境伊朗为何不屈服",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%A4%A7%E5%86%9B%E5%8E%8B%E5%A2%83%E4%BC%8A%E6%9C%97%E4%B8%BA%E4%BD%95%E4%B8%8D%E5%B1%88%E6%9C%8D",
+          "source": "bilibili 热搜",
           "ranks": [
-            4
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时53分 ~ 12时54分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
         },
         {
           "title": "伊朗外长：希望在最短时间内与美国达成公平协议",
@@ -783,6 +831,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时13分 ~ 05时47分]"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：只要优先考虑外交途径，与美国达成核协议是可能的。",
+          "url": "https://flash.jin10.com/detail/20260225125758262800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
         },
         {
           "title": "据知情人士透露，美国中情局局长拉特克利夫将同国务卿鲁比奥一道，参加美东时间15:00“八人小组”进行的伊朗问题简报会。（Axios）",
@@ -901,6 +960,18 @@
           "time_info": "[01时13分 ~ 05时47分]"
         },
         {
+          "title": "美股收盘：软件板块回暖三大指数齐涨 空头突袭存储牛股",
+          "url": "https://www.cls.cn/detail/2294131",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时31分 ~ 14时01分]"
+        },
+        {
           "title": "AI冲击余波未平，美股盘初涨跌互现，芯片板块拉升，AMD拿下大单涨超6%，金银回落，基本金属拉升",
           "url": "https://wallstreetcn.com/articles/3766041",
           "source": "华尔街见闻",
@@ -923,18 +994,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时13分 ~ 12时54分]"
-        },
-        {
-          "title": "美股收盘：软件板块回暖三大指数齐涨 空头突袭存储牛股",
-          "url": "https://www.cls.cn/detail/2294131",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时31分 ~ 12时54分]"
         },
         {
           "title": "金十图示：2026年02月24日（周二）美股热门股票行情一览（美股收盘）",
@@ -1073,8 +1132,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时08分 ~ 12时54分]"
+          "appearance_count": 4,
+          "time_info": "[10时08分 ~ 14时01分]"
         },
         {
           "title": "谷歌将在明尼苏达州建设数据中心，配套新增太阳能、风电及储能项目",
