@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T15:47:41.779364+08:00",
-  "total_titles_processed": 1273,
+  "generated_at": "2026-02-27T16:41:15.940963+08:00",
+  "total_titles_processed": 1376,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 43,
+      "match_count": 44,
       "titles": [
         {
           "title": "白宫官员希望以色列先打击伊朗",
@@ -28,6 +28,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时58分 ~ 07时30分]"
+        },
+        {
+          "title": "伊美第三轮谈判结束，伊朗外长称取得良好进展，美媒称美方谈判期间感到失望",
+          "url": "https://wallstreetcn.com/articles/3766294",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时02分 ~ 16时41分]"
         },
         {
           "title": "中国是否会与俄罗斯一道支持伊朗抵御美国侵略？外交部回应",
@@ -59,19 +72,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时58分 ~ 10时02分]"
-        },
-        {
-          "title": "伊美第三轮谈判结束，伊朗外长称取得良好进展，美媒称美方谈判期间感到失望",
-          "url": "https://wallstreetcn.com/articles/3766294",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时02分 ~ 15时47分]"
         },
         {
           "title": "中方正密切关注伊朗局势发展",
@@ -141,6 +141,19 @@
           "time_info": "01时59分"
         },
         {
+          "title": "伊朗外交部发言人：本轮伊美谈判非常深入",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32661028",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时54分 ~ 16时41分]"
+        },
+        {
           "title": "美海军第五舰队驻巴林总部缩减人员规模，据称此举是为应对伊朗可能发动的袭击",
           "url": "https://wallstreetcn.com/livenews/3059708",
           "source": "华尔街见闻-快讯",
@@ -189,16 +202,16 @@
           "time_info": "[13时52分 ~ 14时55分]"
         },
         {
-          "title": "伊朗外交部发言人：本轮伊美谈判非常深入",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32661028",
-          "source": "澎湃新闻",
+          "title": "伊朗警告：将让侵略者付出惨重代价",
+          "url": "https://www.toutiao.com/trending/7610045179701624886/",
+          "source": "今日头条",
           "ranks": [
-            20,
-            19
+            7,
+            13
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时54分 ~ 15时47分]"
+          "time_info": "[15时47分 ~ 16时41分]"
         },
         {
           "title": "库什纳与美国特使Witkoff对2月26日早间与伊朗的磋商情况感到失望。（Axios）",
@@ -260,15 +273,15 @@
           "time_info": "04时38分"
         },
         {
-          "title": "伊朗警告：将让侵略者付出惨重代价",
-          "url": "https://www.toutiao.com/trending/7610045179701624886/",
-          "source": "今日头条",
+          "title": "伊朗军官称已做好应对敌军行动准备",
+          "url": "https://flash.jin10.com/detail/20260227160957204800",
+          "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时47分"
+          "time_info": "16时41分"
         },
         {
           "title": "据伊朗国家电视台：美国代表团参加伊朗问题会谈的车辆离开会场。",
@@ -288,7 +301,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
         },
@@ -299,7 +312,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
         },
@@ -505,7 +518,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 33,
+      "match_count": 35,
       "titles": [
         {
           "title": "特朗普白宫设宴，请美国男子冰球队吃麦当劳",
@@ -519,6 +532,22 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时58分 ~ 13时53分]"
+        },
+        {
+          "title": "AI挤崩电网、引爆电费？特朗普要求科技巨头自建电厂压电价",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32660479",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            17,
+            19,
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时30分 ~ 16时41分]"
         },
         {
           "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
@@ -545,22 +574,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时58分 ~ 07时30分]"
-        },
-        {
-          "title": "AI挤崩电网、引爆电费？特朗普要求科技巨头自建电厂压电价",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32660479",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            17,
-            19,
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时30分 ~ 15时47分]"
         },
         {
           "title": "美国特使威特科夫：我不会用“天真”来形容特朗普。他非常明智，他的判断也很有道理。我也是这样，贾里德·库什纳也是。",
@@ -594,6 +607,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        },
+        {
+          "title": "史无前例！联合国宣布特朗普夫人将主持安理会会议",
+          "url": "https://news.ifeng.com/c/8r5F4LVejaT",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时54分 ~ 16时41分]"
         },
         {
           "title": "白宫：特朗普愿在无前提条件下与金正恩对话",
@@ -633,18 +658,6 @@
           "time_info": "[00时59分 ~ 03时02分]"
         },
         {
-          "title": "史无前例！联合国宣布特朗普夫人将主持安理会会议",
-          "url": "https://news.ifeng.com/c/8r5F4LVejaT",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时54分 ~ 15时47分]"
-        },
-        {
           "title": "美国纽约州长Hochul写信给总统特朗普的财政部长贝森特，要求立即实施关税退款。",
           "url": "https://wallstreetcn.com/livenews/3059705",
           "source": "华尔街见闻-快讯",
@@ -681,6 +694,17 @@
           "time_info": "[03时02分 ~ 04时38分]"
         },
         {
+          "title": "爱泼斯坦案风波延烧，希拉里一句话把矛头指向特朗普",
+          "url": "https://news.ifeng.com/c/8r5SIs2UIPN",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时40分 ~ 16时41分]"
+        },
+        {
           "title": "申请英国国籍的美国人数量在特朗普第二任期头一年创历史新高",
           "url": "https://wallstreetcn.com/livenews/3059757",
           "source": "华尔街见闻-快讯",
@@ -703,6 +727,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时38分 ~ 05时33分]"
+        },
+        {
+          "title": "美军中东最高指挥官向特朗普汇报",
+          "url": "https://www.toutiao.com/trending/7611361368545280036/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时40分 ~ 16时41分]"
         },
         {
           "title": "市场消息：特朗普要求美国最高法院终止对叙利亚移民的保护。",
@@ -1229,7 +1264,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
         },
@@ -1333,11 +1368,12 @@
           "source": "百度热搜",
           "ranks": [
             20,
-            26
+            26,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时52分 ~ 15时47分]"
+          "appearance_count": 5,
+          "time_info": "[13时52分 ~ 16时41分]"
         },
         {
           "title": "OpenAI向加拿大官员作出多项承诺，将加强安全机制",
@@ -1363,7 +1399,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
         },
