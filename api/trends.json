@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-11T13:28:46.997821+08:00",
-  "total_titles_processed": 848,
+  "generated_at": "2026-06-11T18:24:41.446996+08:00",
+  "total_titles_processed": 1062,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 60,
+      "match_count": 64,
       "titles": [
         {
           "title": "【早报】美军空袭伊朗；黄金、白银继续大跌",
@@ -64,6 +64,17 @@
           "time_info": "06时02分"
         },
         {
+          "title": "约旦称击落20枚伊朗导弹",
+          "url": "https://wallstreetcn.com/livenews/3118090",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
           "title": "据AXIOS：美国官员称，美国对伊朗的打击已经开始。",
           "url": "https://flash.jin10.com/detail/20260611053510646800",
           "source": "金十数据",
@@ -73,6 +84,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
+        },
+        {
+          "title": "伊朗战争影响海湾地区供应 美国跃升印度最大天然气供应商",
+          "url": "https://flash.jin10.com/detail/20260611180732066800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
         },
         {
           "title": "伊朗媒体Mehr：Asaluyeh的防空系统被激活。",
@@ -143,17 +165,6 @@
           "time_info": "[00时58分 ~ 08时15分]"
         },
         {
-          "title": "伊朗：用12枚导弹摧毁美军大量战机",
-          "url": "https://news.ifeng.com/c/8trqmYEuo1k",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时28分"
-        },
-        {
           "title": "据伊朗迈赫尔通讯社：伊朗米纳卜地区传出爆炸声。",
           "url": "https://flash.jin10.com/detail/20260611052909351800",
           "source": "金十数据",
@@ -198,6 +209,30 @@
           "time_info": "[00时58分 ~ 08时15分]"
         },
         {
+          "title": "伊朗：用12枚导弹摧毁美军大量战机",
+          "url": "https://news.ifeng.com/c/8trqmYEuo1k",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时28分 ~ 18时24分]"
+        },
+        {
+          "title": "伊朗宣布对所有船只关闭霍尔木兹海峡，打击两艘非法通过海峡船只，如何解读？可能会带来哪些连锁反应？",
+          "url": "https://www.zhihu.com/question/2048301839200642048",
+          "source": "知乎",
+          "ranks": [
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时28分 ~ 18时24分]"
+        },
+        {
           "title": "伊朗全面关闭霍尔木兹海峡",
           "url": "https://www.toutiao.com/trending/7649365955310718483/",
           "source": "今日头条",
@@ -208,6 +243,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时15分 ~ 13时28分]"
+        },
+        {
+          "title": "伊朗宣布对所有船只关闭霍尔木兹海峡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33355478",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时28分 ~ 18时24分]"
         },
         {
           "title": "伊朗对所有船只关闭霍尔木兹海峡 国际原油价格持续走高 | 环球市场",
@@ -243,17 +290,6 @@
           "time_info": "06时02分"
         },
         {
-          "title": "伊朗宣布对所有船只关闭霍尔木兹海峡，打击两艘非法通过海峡船只，如何解读？可能会带来哪些连锁反应？",
-          "url": "https://www.zhihu.com/question/2048301839200642048",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时28分"
-        },
-        {
           "title": "伊朗对所有船只关闭霍尔木兹海峡",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%AF%B9%E6%89%80%E6%9C%89%E8%88%B9%E5%8F%AA%E5%85%B3%E9%97%AD%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1",
           "source": "百度热搜",
@@ -263,6 +299,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时15分"
+        },
+        {
+          "title": "伊朗：用12枚导弹摧毁美军大量战机",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E7%94%A812%E6%9E%9A%E5%AF%BC%E5%BC%B9%E6%91%A7%E6%AF%81%E7%BE%8E%E5%86%9B%E5%A4%A7%E9%87%8F%E6%88%98%E6%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
         },
         {
           "title": "美国财政部网站显示，美国对伊朗实施新制裁。",
@@ -318,6 +365,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
+        },
+        {
+          "title": "伊朗再次称霍尔木兹海峡暂时关闭",
+          "url": "https://wallstreetcn.com/livenews/3118073",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
         },
         {
           "title": "据伊朗迈赫尔通讯社：德黑兰西部传出防空活动声响。",
@@ -439,17 +497,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
-        },
-        {
-          "title": "伊朗宣布对所有船只关闭霍尔木兹海峡",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33355478",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时28分"
         },
         {
           "title": "伊朗议会国家安全委员会主席：这一次，战争将不会局限于本地区。",
@@ -667,7 +714,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时28分"
         }
@@ -677,6 +724,20 @@
       "keyword_group": "特朗普",
       "match_count": 44,
       "titles": [
+        {
+          "title": "特朗普威胁打击伊朗电厂、桥梁，油价应声攀升，俄外交部：袭击民用设施“绝对不可接受”",
+          "url": "https://wallstreetcn.com/articles/3774340",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 18时24分]"
+        },
         {
           "title": "美贸易法院：特朗普，快退钱！",
           "url": "https://news.ifeng.com/c/8tqRZQUDFAS",
@@ -689,26 +750,13 @@
           "time_info": "[00时58分 ~ 08时15分]"
         },
         {
-          "title": "特朗普威胁打击伊朗电厂、桥梁，油价应声攀升，俄外交部：袭击民用设施“绝对不可接受”",
-          "url": "https://wallstreetcn.com/articles/3774340",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 13时28分]"
-        },
-        {
           "title": "特朗普公开了一个秘密，全世界都有点懵",
           "url": "https://news.ifeng.com/c/8tos3hBXZVW",
           "source": "凤凰网",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时28分"
         },
@@ -730,7 +778,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时28分"
         },
@@ -774,7 +822,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时28分"
         },
@@ -785,7 +833,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时28分"
         },
@@ -1170,7 +1218,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "伊朗局势骤然升级，原油大涨，科技股抛售拖累美股，盘后甲骨文跳水9%，黄金暴跌",
@@ -1181,8 +1229,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时15分 ~ 13时28分]"
+          "appearance_count": 3,
+          "time_info": "[08时15分 ~ 18时24分]"
         },
         {
           "title": "美股收盘：避险情绪升温芯片板块再现抛售潮 道指纳指跌近2%",
@@ -1214,9 +1262,20 @@
           "ranks": [
             7
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时28分 ~ 18时24分]"
+        },
+        {
+          "title": "SpaceX上市在即，美股航天概念股盘前反弹，“SpaceX概念基金”Destiny Tech100涨近12%，Rocket Lab、ASTS涨超4%，回声星通信涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3118075",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时28分"
+          "time_info": "18时24分"
         },
         {
           "title": "亚马逊扩张零担物流业务，引爆美股运输板块新一轮暴跌，传统货运巨头全线重挫",
@@ -1345,11 +1404,12 @@
           "url": "https://www.cls.cn/detail/2396831",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时28分 ~ 18时24分]"
         },
         {
           "title": "报道：Altman预计OpenAI将于未来一年内IPO",
@@ -1393,6 +1453,17 @@
           "time_info": "[00时58分 ~ 06时02分]"
         },
         {
+          "title": "金价跌破4100美元",
+          "url": "https://www.douyin.com/hot/2530456",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时28分 ~ 18时24分]"
+        },
+        {
           "title": "金价抹去今年全部涨幅",
           "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%8A%B9%E5%8E%BB%E4%BB%8A%E5%B9%B4%E5%85%A8%E9%83%A8%E6%B6%A8%E5%B9%85",
           "source": "百度热搜",
@@ -1403,17 +1474,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时15分 ~ 13时28分]"
-        },
-        {
-          "title": "金价跌破4100美元",
-          "url": "https://www.douyin.com/hot/2530456",
-          "source": "抖音",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时28分"
         }
       ]
     }
