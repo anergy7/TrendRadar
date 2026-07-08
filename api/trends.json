@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-09T01:29:44.248259+08:00",
-  "total_titles_processed": 397,
+  "generated_at": "2026-07-09T03:25:33.310723+08:00",
+  "total_titles_processed": 460,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 28,
       "titles": [
         {
           "title": "美伊战火重燃！特朗普称谅解备忘录“已终结”，斥伊朗人是“人渣”",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 01时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 03时25分]"
         },
         {
           "title": "特朗普称“今夜可能再打伊朗”",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 01时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 03时25分]"
         },
         {
           "title": "国际油价大涨6%金银跳水！特朗普一言引爆全球市场",
@@ -38,8 +38,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 01时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 03时25分]"
         },
         {
           "title": "特朗普：今晚可能再打伊朗",
@@ -50,8 +50,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 01时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 03时25分]"
         },
         {
           "title": "伊朗打击周边国家美军基地 特朗普称美伊谅解备忘录“已终结”",
@@ -61,8 +61,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 01时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 03时25分]"
         },
         {
           "title": "特朗普要求切断与西班牙一切贸易往来，西班牙回应",
@@ -72,8 +72,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 01时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 03时25分]"
         },
         {
           "title": "美国总统特朗普：圆满结束了北约峰会。",
@@ -94,8 +94,32 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 01时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 03时25分]"
+        },
+        {
+          "title": "特朗普：美伊谅解备忘录“已终结”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33541797",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 03时25分]"
+        },
+        {
+          "title": "特朗普要求切断美国与西班牙贸易往来",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33542019",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 03时25分]"
         },
         {
           "title": "特朗普：“今夜可能再打伊朗”，可能会恢复对伊朗的海上封锁；伊朗：将对冒险行为做出“立即回应”",
@@ -110,6 +134,18 @@
           "time_info": "[00时15分 ~ 01时29分]"
         },
         {
+          "title": "【特朗普：美伊之间的局势升级会很快平息】美国总统特朗普8日在土耳其首都安卡拉表示，当前美国与伊朗之间的局势升级会很快平息，他不认为会再度爆发与伊朗的战争。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3130833",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时29分 ~ 03时25分]"
+        },
+        {
           "title": "美国队惨败，比利时首相：我不会刺激特朗普",
           "url": "https://news.ifeng.com/c/8uanN9kF7R0",
           "source": "凤凰网",
@@ -121,37 +157,50 @@
           "time_info": "[00时15分 ~ 01时29分]"
         },
         {
-          "title": "特朗普：美伊谅解备忘录“已终结”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33541797",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 01时29分]"
-        },
-        {
-          "title": "特朗普要求切断美国与西班牙贸易往来",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33542019",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 01时29分]"
-        },
-        {
-          "title": "【特朗普：美伊之间的局势升级会很快平息】美国总统特朗普8日在土耳其首都安卡拉表示，当前美国与伊朗之间的局势升级会很快平息，他不认为会再度爆发与伊朗的战争。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3130833",
+          "title": "美国总统特朗普：我们现在石油过剩，油价将下跌。 石油（供应）将变得非常充裕，获取非常容易，且见效极快。",
+          "url": "https://wallstreetcn.com/livenews/3130828",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时29分 ~ 03时25分]"
+        },
+        {
+          "title": "特朗普：不认为会再次爆发伊朗战争",
+          "url": "https://wallstreetcn.com/livenews/3130824",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时29分 ~ 03时25分]"
+        },
+        {
+          "title": "特朗普先威胁“今夜”再打伊朗、恢复海上封锁，后“降温”：美伊局势升级会很快平息",
+          "url": "https://wallstreetcn.com/articles/3776487",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时29分"
+          "time_info": "03时25分"
+        },
+        {
+          "title": "伊朗外长：将以行动对特朗普言论作出回应",
+          "url": "https://wallstreetcn.com/livenews/3130854",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时25分"
         },
         {
           "title": "特朗普称“今夜可能再打伊朗”",
@@ -176,15 +225,15 @@
           "time_info": "00时15分"
         },
         {
-          "title": "美国总统特朗普：我们现在石油过剩，油价将下跌。 石油（供应）将变得非常充裕，获取非常容易，且见效极快。",
-          "url": "https://wallstreetcn.com/livenews/3130828",
-          "source": "华尔街见闻-快讯",
+          "title": "美国副总统万斯：特朗普已明确表示，霍尔木兹海峡将保持畅通。",
+          "url": "https://flash.jin10.com/detail/20260709024451724800",
+          "source": "金十数据",
           "ranks": [
-            14
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时29分"
+          "time_info": "03时25分"
         },
         {
           "title": "特朗普：石油供应过剩，油价将会下跌",
@@ -193,7 +242,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
         },
@@ -209,15 +258,26 @@
           "time_info": "00时15分"
         },
         {
-          "title": "特朗普：不认为会再次爆发伊朗战争",
-          "url": "https://wallstreetcn.com/livenews/3130824",
-          "source": "华尔街见闻-快讯",
+          "title": "美国副总统万斯：特朗普仍保留多项应对伊朗的选择。",
+          "url": "https://flash.jin10.com/detail/20260709024042039800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时25分"
+        },
+        {
+          "title": "特朗普称“今夜可能再打伊朗”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33544015",
+          "source": "澎湃新闻",
           "ranks": [
             18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时29分"
+          "time_info": "03时25分"
         },
         {
           "title": "舒默：特朗普今天的讲话堪称“精神错乱”",
@@ -237,7 +297,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
         },
@@ -248,7 +308,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
         },
@@ -267,7 +327,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 19,
+      "match_count": 27,
       "titles": [
         {
           "title": "霍尔木兹冲击波！美国撤销伊朗石油销售豁免，美军称开始对伊发动强力打击",
@@ -277,8 +337,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 01时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 03时25分]"
         },
         {
           "title": "战火重燃，伊朗革命卫队处境艰难",
@@ -288,8 +348,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 01时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 03时25分]"
         },
         {
           "title": "伊朗军方：若美国真的发动大规模战争，将会得到“惊喜”",
@@ -299,19 +359,31 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 01时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 03时25分]"
         },
         {
           "title": "美军称开始对伊朗发动系列打击",
           "url": "https://m.thepaper.cn/newsDetail_forward_33539157",
           "source": "澎湃新闻",
           "ranks": [
-            5
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 03时25分]"
+        },
+        {
+          "title": "伊朗披露美军袭击造成的伤亡情况",
+          "url": "https://news.ifeng.com/c/8ubSBCWN8eN",
+          "source": "凤凰网",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时15分 ~ 01时29分]"
+          "time_info": "[01时29分 ~ 03时25分]"
         },
         {
           "title": "伊朗称美军袭击造成8名军人死亡",
@@ -325,15 +397,37 @@
           "time_info": "00时15分"
         },
         {
-          "title": "伊朗披露美军袭击造成的伤亡情况",
-          "url": "https://news.ifeng.com/c/8ubSBCWN8eN",
-          "source": "凤凰网",
+          "title": "据华尔街日报：伊拉克同意美方要求，将停止向伊朗支持的民兵组织提供美元流动。",
+          "url": "https://flash.jin10.com/detail/20260709030403030800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时29分"
+          "time_info": "03时25分"
+        },
+        {
+          "title": "美国副总统万斯声称：伊朗核计划被摧毁了。 如果他们（伊朗）射击我们的船只，美国将采取行动。 如果伊朗试图关闭霍尔木兹海峡，美方将做出反应。",
+          "url": "https://wallstreetcn.com/livenews/3130859",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时25分"
+        },
+        {
+          "title": "伊朗与卡塔尔通电话，讨论霍尔木兹海峡事件。",
+          "url": "https://wallstreetcn.com/livenews/3130856",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时25分"
         },
         {
           "title": "伊朗称美军袭击造成8名伊朗军人死亡",
@@ -352,11 +446,23 @@
           "url": "https://www.douyin.com/hot/2562712",
           "source": "抖音",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 01时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 03时25分]"
+        },
+        {
+          "title": "消息人士：巴基斯坦陆军司令阿西姆·穆尼尔正与伊朗方面展开接触，试图缓和伊朗与美国之间不断升级的紧张局势。",
+          "url": "https://flash.jin10.com/detail/20260709025533023800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时25分"
         },
         {
           "title": "伊朗外交部发言人：伊朗将坚定不移地维护国家利益，并行使国家主权。",
@@ -365,7 +471,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
         },
@@ -376,9 +482,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
+        },
+        {
+          "title": "美国副总统万斯：伊朗必须履行相关承诺，否则将面临与昨晚类似的后果。除非伊朗停止向船只开火，否则美国军事行动将继续。",
+          "url": "https://flash.jin10.com/detail/20260709024814410800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时25分"
         },
         {
           "title": "伊朗外交部发言人：美国正在霍尔木兹海峡制造挑战，伊朗将维护自身利益。",
@@ -387,9 +504,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
+        },
+        {
+          "title": "美国副总统万斯：美伊协议明确规定，若伊朗对船只发动攻击，美方将采取强力反制措施，且回应力度将进一步升级。",
+          "url": "https://flash.jin10.com/detail/20260709024418849800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时25分"
         },
         {
           "title": "据伊朗伊斯兰共和国广播电视台（IRIB）：伊朗军队表示，我们损失了八名战士，我们将为他们复仇。",
@@ -409,9 +537,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
+        },
+        {
+          "title": "美国副总统万斯：伊朗大约在一周内遵守承诺并改善行为，但随后又恢复袭击船只。",
+          "url": "https://flash.jin10.com/detail/20260709024416446800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时25分"
         },
         {
           "title": "据伊朗国家媒体：八名伊朗军人死于美国对伊朗南部的袭击。",
@@ -436,6 +575,17 @@
           "time_info": "00时15分"
         },
         {
+          "title": "美国副总统万斯：（关于伊朗）如果他们向我们的船只开火，美国将予以回击。",
+          "url": "https://flash.jin10.com/detail/20260709023654210800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时25分"
+        },
+        {
           "title": "美军再袭伊朗致多人受伤，伊朗总统启程回国，强度是 10 天前四五倍，如何看待此轮打击？",
           "url": "https://www.zhihu.com/question/2058125610363401206",
           "source": "知乎",
@@ -453,7 +603,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
         },
@@ -483,7 +633,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "OpenAI：在发布初期，GPT-Live将在后台使用GPT-5.5。GPT-Live在ChatGPT中将不支持带视频或屏幕共享功能的语音交互。",
@@ -492,7 +642,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
         },
@@ -503,7 +653,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
         },
@@ -514,7 +664,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
         },
@@ -525,7 +675,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
         },
@@ -535,11 +685,23 @@
           "source": "知乎",
           "ranks": [
             14,
-            13
+            13,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 01时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 03时25分]"
+        },
+        {
+          "title": "OpenAI推出GPT-Live语音模型",
+          "url": "https://wallstreetcn.com/livenews/3130838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时25分"
         }
       ]
     },
@@ -555,8 +717,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 01时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 03时25分]"
         },
         {
           "title": "一图看懂 | 美股医药板块指数刷新历史新高 A、H股创新药行情能否受提振?",
@@ -566,8 +728,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 01时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 03时25分]"
         },
         {
           "title": "德国两年期国债收益率涨超12个基点，特朗普威胁要在美股盘后袭击伊朗，国际油价走高",
@@ -576,7 +738,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
         }
@@ -591,11 +753,12 @@
           "url": "https://www.zhihu.com/question/2058168270499176758",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 01时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 03时25分]"
         }
       ]
     }
