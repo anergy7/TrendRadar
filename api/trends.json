@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-20T14:19:49.286932+08:00",
-  "total_titles_processed": 1013,
+  "generated_at": "2026-07-20T18:10:27.152741+08:00",
+  "total_titles_processed": 1218,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 64,
+      "match_count": 67,
       "titles": [
         {
           "title": "伊朗导弹击中美军基地，火光四溅，有人大喊快撤",
@@ -63,8 +63,30 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时58分 ~ 18时10分]"
+        },
+        {
+          "title": "哈梅内伊遇袭预案代号曝光，伊朗外长哽咽披露细节",
+          "url": "https://news.ifeng.com/c/8uuQFo0n9YS",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时58分 ~ 14时19分]"
+          "time_info": "[14时19分 ~ 18时10分]"
+        },
+        {
+          "title": "伊朗外长：美国曾试图“收买”我们，我当场拒绝",
+          "url": "https://news.ifeng.com/c/8uuXB95ZA03",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 18时10分]"
         },
         {
           "title": "伊朗让美军付出重大代价",
@@ -76,17 +98,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
-        },
-        {
-          "title": "哈梅内伊遇袭预案代号曝光，伊朗外长哽咽披露细节",
-          "url": "https://news.ifeng.com/c/8uuQFo0n9YS",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时19分"
         },
         {
           "title": "伊朗塔斯尼姆通讯社：伊朗西南部的马赫沙赫尔港（Bandar Mahshahr）和伊玛目霍梅尼港（Bandar Imam Khomeini）传出了数声爆炸巨响。",
@@ -109,17 +120,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时58分"
-        },
-        {
-          "title": "伊朗外长：美国曾试图“收买”我们，我当场拒绝",
-          "url": "https://news.ifeng.com/c/8uuXB95ZA03",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时19分"
         },
         {
           "title": "科威特军方：科威特防空部队目前正应对敌方无人机的攻击。此次攻击源于伊朗的敌对行为。",
@@ -172,7 +172,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
         },
@@ -539,13 +539,24 @@
           "time_info": "[01时02分 ~ 03时05分]"
         },
         {
+          "title": "伊朗司法总监：我们必须比以往任何时候都更加警惕那些煽动者、谣言散布者、伪善者和渗透者。",
+          "url": "https://flash.jin10.com/detail/20260720180438856800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时10分"
+        },
+        {
           "title": "据伊朗塔斯尼姆通讯社：在巴林多个地区，尤其是首都麦纳麦，传出连续爆炸的声音，居民们报告称感受到强烈的震动。",
           "url": "https://flash.jin10.com/detail/20260720133654675800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
         },
@@ -594,6 +605,17 @@
           "time_info": "04时47分"
         },
         {
+          "title": "伊朗司法总监：那些被派往前线、战场和街头的人们强调，必须继续开展圣战，打击侵略成性、背信弃义的敌人，并已举起复仇的旗帜。国家官员之间不存在分歧，都认为美国敌人绝无信誉可言；我们绝不会以任何方式向其屈服，并将坚持到底。",
+          "url": "https://flash.jin10.com/detail/20260720175441234800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时10分"
+        },
+        {
           "title": "美方称对伊朗军事行动将持续进行",
           "url": "https://www.toutiao.com/trending/7663703753891233818/",
           "source": "今日头条",
@@ -611,7 +633,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
         },
@@ -633,7 +655,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
         },
@@ -710,7 +732,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
         },
@@ -724,6 +746,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时58分"
+        },
+        {
+          "title": "伊拉克民兵武装就美袭击伊朗发声",
+          "url": "https://www.toutiao.com/trending/7664146504593260563/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时10分"
         },
         {
           "title": "伊朗称两艘油轮在试图通过霍尔木兹海峡时发生爆炸",
@@ -751,7 +784,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "美国援外大转向：特朗普要向欧洲输出“MAGA”",
@@ -800,6 +833,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[04时46分 ~ 07时57分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-20）",
+          "url": "https://flash.jin10.com/detail/20260720180937404800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时10分"
         },
         {
           "title": "FIFA将大力神杯送入特朗普包厢",
@@ -939,6 +983,18 @@
           "time_info": "[03时05分 ~ 04时47分]"
         },
         {
+          "title": "西班牙夺冠庆祝合影，特朗普迟迟不肯离场",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33618793",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 18时10分]"
+        },
+        {
           "title": "特朗普为西班牙颁奖",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E8%A5%BF%E7%8F%AD%E7%89%99%E9%A2%81%E5%A5%96%23&t=31&band_rank=17&Refer=top",
           "source": "微博",
@@ -973,17 +1029,6 @@
           "time_info": "07时57分"
         },
         {
-          "title": "西班牙夺冠庆祝合影，特朗普迟迟不肯离场",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33618793",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时19分"
-        },
-        {
           "title": "美国总统特朗普将大力神杯颁给西班牙队。",
           "url": "https://flash.jin10.com/detail/20260720064454811800",
           "source": "金十数据",
@@ -993,6 +1038,67 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
+        },
+        {
+          "title": "特朗普隔着防弹玻璃现场看世界杯决赛",
+          "url": "https://www.toutiao.com/trending/7664367574197469203/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "花旗：美股“科技7巨头”的标签已经过时",
+          "url": "https://flash.jin10.com/detail/20260720180357146800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时10分"
+        },
+        {
+          "title": "7月20日投资避雷针：上周五美股三大指数集体收跌 费城半导体指数进入技术性熊市",
+          "url": "https://www.cls.cn/detail/2430704",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
+          "title": "美股股指期货周一基本平开。",
+          "url": "https://flash.jin10.com/detail/20260720060012850800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时52分"
+        },
+        {
+          "title": "花旗：在人工智能股票赢家中，美股“科技7巨头”的标签已经过时。",
+          "url": "https://flash.jin10.com/detail/20260720175653296800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时10分"
         }
       ]
     },
@@ -1032,7 +1138,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
         }
@@ -1063,8 +1169,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时56分 ~ 14时19分]"
+          "appearance_count": 5,
+          "time_info": "[07时56分 ~ 18时10分]"
         }
       ]
     },
@@ -1093,37 +1199,9 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "7月20日投资避雷针：上周五美股三大指数集体收跌 费城半导体指数进入技术性熊市",
-          "url": "https://www.cls.cn/detail/2430704",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时19分"
-        },
-        {
-          "title": "美股股指期货周一基本平开。",
-          "url": "https://flash.jin10.com/detail/20260720060012850800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时52分"
+          "time_info": "14时19分"
         }
       ]
     }
