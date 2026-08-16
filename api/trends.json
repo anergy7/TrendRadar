@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-16T19:20:25.324156+08:00",
-  "total_titles_processed": 879,
+  "generated_at": "2026-08-16T20:38:07.937815+08:00",
+  "total_titles_processed": 957,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
@@ -37,8 +37,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时22分 ~ 19时20分]"
+          "appearance_count": 4,
+          "time_info": "[18时22分 ~ 20时38分]"
         },
         {
           "title": "伊朗三大权力机构负责人举行会晤",
@@ -48,19 +48,31 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时22分 ~ 19时20分]"
+          "appearance_count": 4,
+          "time_info": "[18时22分 ~ 20时38分]"
         },
         {
-          "title": "伊朗陆军总司令：俘获或击毙美军可获3万美元悬赏",
-          "url": "https://flash.jin10.com/detail/20260816190924554800",
-          "source": "金十数据",
+          "title": "伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33790363",
+          "source": "澎湃新闻",
           "ranks": [
-            1
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时14分 ~ 20时38分]"
+        },
+        {
+          "title": "伊朗称逮捕或消灭美军者将获奖励",
+          "url": "https://wallstreetcn.com/livenews/3150063",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时20分"
+          "time_info": "20时38分"
         },
         {
           "title": "伊朗战事延宕 美航母部署时长恐将再刷纪录",
@@ -77,16 +89,16 @@
           "time_info": "[07时20分 ~ 11时55分]"
         },
         {
-          "title": "伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33790363",
-          "source": "澎湃新闻",
+          "title": "伊朗陆军总司令：俘获或击毙美军可获3万美元悬赏",
+          "url": "https://flash.jin10.com/detail/20260816190924554800",
+          "source": "金十数据",
           "ranks": [
-            20,
-            19
+            1,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时14分 ~ 19时20分]"
+          "appearance_count": 2,
+          "time_info": "[19时20分 ~ 20时38分]"
         },
         {
           "title": "美国中央司令部：以圣地亚哥为母港的“亚伯拉罕·林肯”号于去年11月启程执行部署任务，并于1月抵达中东。该打击群已成功执行数千次作战飞行任务，以支持“史诗狂怒”行动、地区安全任务以及美国目前对伊朗实施的海上封锁。",
@@ -121,11 +133,25 @@
           "source": "金十数据",
           "ranks": [
             10,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时22分 ~ 19时20分]"
+          "appearance_count": 3,
+          "time_info": "[18时22分 ~ 20时38分]"
+        },
+        {
+          "title": "伊朗外交部强烈谴责以色列对黎袭击",
+          "url": "https://wallstreetcn.com/livenews/3150039",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            20,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时22分 ~ 20时38分]"
         },
         {
           "title": "伊朗能源优化组织负责人：第一种方案中，汽油价格保持不变，但总分配量上限为1.21亿升，一旦用完，加油口将关闭。第二种方案中，每日生产的1.21亿升汽油将分配给各车辆，任何希望超出配额的人必须按自由市场价格购买汽油；第三种方案中，汽油配额分配给民众，每人每月30升，且允许进行配额转让、购买和出售。",
@@ -152,18 +178,6 @@
           "time_info": "[07时20分 ~ 09时15分]"
         },
         {
-          "title": "伊朗外交部强烈谴责以色列对黎袭击",
-          "url": "https://wallstreetcn.com/livenews/3150039",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时22分 ~ 19时20分]"
-        },
-        {
           "title": "据伊朗媒体Fars News：伊朗梅赫兰市市长称，几分钟前在梅赫兰听到的爆炸声是由于在伊拉克境内销毁战争遗留弹药的操作所致。",
           "url": "https://flash.jin10.com/detail/20260816165308429800",
           "source": "金十数据",
@@ -186,6 +200,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时22分 ~ 19时20分]"
+        },
+        {
+          "title": "伊朗军方：每名入境美军悬赏50亿土曼",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%86%9B%E6%96%B9%EF%BC%9A%E6%AF%8F%E5%90%8D%E5%85%A5%E5%A2%83%E7%BE%8E%E5%86%9B%E6%82%AC%E8%B5%8F50%E4%BA%BF%E5%9C%9F%E6%9B%BC",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时37分 ~ 20时38分]"
         },
         {
           "title": "卡塔尔外交部：卡塔尔曾于4月邀请伊朗代表团访问卡塔尔，听取搜救行动的详细情况，但伊朗方面迄今尚未对该邀请作出回应。",
@@ -268,8 +293,34 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时20分 ~ 19时20分]"
+          "appearance_count": 10,
+          "time_info": "[07时20分 ~ 20时38分]"
+        },
+        {
+          "title": "海峡控制权“各说各话”：特朗普放话“拿下”霍尔木兹，伊朗称已与阿曼就通行方案达成协议",
+          "url": "https://wallstreetcn.com/articles/3779521",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时54分 ~ 20时38分]"
+        },
+        {
+          "title": "特朗普又发旧照，称“与金正恩相处融洽”(图)",
+          "url": "https://news.ifeng.com/c/8vd6r6o7WHm",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时22分 ~ 20时38分]"
         },
         {
           "title": "特朗普誓言美航母重回锅气时代",
@@ -285,41 +336,17 @@
           "time_info": "[09时14分 ~ 11时55分]"
         },
         {
-          "title": "海峡控制权“各说各话”：特朗普放话“拿下”霍尔木兹，伊朗称已与阿曼就通行方案达成协议",
-          "url": "https://wallstreetcn.com/articles/3779521",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时54分 ~ 19时20分]"
-        },
-        {
-          "title": "特朗普又发旧照，称“与金正恩相处融洽”(图)",
-          "url": "https://news.ifeng.com/c/8vd6r6o7WHm",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时22分 ~ 19时20分]"
-        },
-        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-16）",
           "url": "https://flash.jin10.com/detail/20260816180839464800",
           "source": "金十数据",
           "ranks": [
             2,
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时22分 ~ 19时20分]"
+          "appearance_count": 3,
+          "time_info": "[18时22分 ~ 20时38分]"
         },
         {
           "title": "据CNN：71%的人认为美国总统特朗普在降低日常商品价格方面的努力还不够，较去年58%的比例有所上升。",
@@ -373,6 +400,19 @@
           "time_info": "[09时15分 ~ 11时55分]"
         },
         {
+          "title": "据沙特媒体哈达斯（Alhadath）：消息人士称，特朗普特使库什纳将与哈马斯代表会面，届时将有埃及、土耳其和卡塔尔的调解人出席，库什纳与哈马斯的会晤旨在防止加沙协议的崩溃。",
+          "url": "https://flash.jin10.com/detail/20260816172332854800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            19,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时22分 ~ 20时38分]"
+        },
+        {
           "title": "特朗普：击败伊朗后，将宣布霍尔木兹海峡为美国领土",
           "url": "https://m.thepaper.cn/newsDetail_forward_33787320",
           "source": "澎湃新闻",
@@ -385,6 +425,30 @@
           "time_info": "[07时20分 ~ 09时15分]"
         },
         {
+          "title": "美伊谈判内幕遭美媒曝光 特朗普政府曾绕过伊朗谈判代表接触革命卫队",
+          "url": "https://flash.jin10.com/detail/20260816182514064800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时20分 ~ 20时38分]"
+        },
+        {
+          "title": "特朗普再促参议院通过全年采用夏令时法案",
+          "url": "https://wallstreetcn.com/livenews/3150053",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时20分 ~ 20时38分]"
+        },
+        {
           "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土”",
           "url": "https://www.cls.cn/detail/2455050",
           "source": "财联社热门",
@@ -394,40 +458,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时20分 ~ 18时22分]"
-        },
-        {
-          "title": "据沙特媒体哈达斯（Alhadath）：消息人士称，特朗普特使库什纳将与哈马斯代表会面，届时将有埃及、土耳其和卡塔尔的调解人出席，库什纳与哈马斯的会晤旨在防止加沙协议的崩溃。",
-          "url": "https://flash.jin10.com/detail/20260816172332854800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时22分 ~ 19时20分]"
-        },
-        {
-          "title": "美伊谈判内幕遭美媒曝光 特朗普政府曾绕过伊朗谈判代表接触革命卫队",
-          "url": "https://flash.jin10.com/detail/20260816182514064800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时20分"
-        },
-        {
-          "title": "特朗普再促参议院通过全年采用夏令时法案",
-          "url": "https://wallstreetcn.com/livenews/3150053",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时20分"
         },
         {
           "title": "美国总统特朗普在社交平台上发布图片，图中他佩戴“Trump 2028”的帽子，并配文“我们将会赢（We are going to win）”。",
@@ -455,8 +485,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时20分 ~ 19时20分]"
+          "appearance_count": 10,
+          "time_info": "[07时20分 ~ 20时38分]"
         },
         {
           "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
@@ -468,19 +498,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时00分 ~ 19时20分]"
+          "appearance_count": 7,
+          "time_info": "[11时00分 ~ 20时38分]"
         },
         {
           "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
           "url": "https://wallstreetcn.com/articles/3779526",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时22分 ~ 19时20分]"
+          "appearance_count": 4,
+          "time_info": "[18时22分 ~ 20时38分]"
         },
         {
           "title": "英伟达拟投资SB Energy 30亿美元，布局OpenAI数据中心",
@@ -583,11 +614,12 @@
           "url": "https://wallstreetcn.com/articles/3779527",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时22分 ~ 19时20分]"
+          "appearance_count": 4,
+          "time_info": "[18时22分 ~ 20时38分]"
         },
         {
           "title": "伯克希尔二季度13F持仓变阵：增持谷歌、达美航空，连续两季减持美银",
@@ -595,11 +627,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时22分 ~ 19时20分]"
+          "appearance_count": 4,
+          "time_info": "[18时22分 ~ 20时38分]"
         },
         {
           "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
@@ -628,8 +661,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时20分 ~ 19时20分]"
+          "appearance_count": 10,
+          "time_info": "[07时20分 ~ 20时38分]"
         },
         {
           "title": "高瓴旗下HHLR披露最新美股持仓 二季度增持英伟达",
