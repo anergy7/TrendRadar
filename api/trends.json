@@ -1,272 +1,228 @@
 {
-  "generated_at": "2026-08-19T19:58:30.595952+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-10-17T03:21:00.431420+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股",
-      "match_count": 9,
+      "keyword_group": "特朗普",
+      "match_count": 6,
       "titles": [
         {
-          "title": "债市风暴持续，美股指三连跌，泛欧股指五连跌，美芯片指数重挫5%，原油三连涨",
-          "url": "https://wallstreetcn.com/articles/3779677",
-          "source": "华尔街见闻",
+          "title": "俄乌“能源停火”破裂，俄专家：特朗普调停能力减弱",
+          "url": "https://original.ifeng.com/c/8xH0F3ptd5e",
+          "source": "凤凰网",
           "ranks": [
-            1
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时58分"
+          "appearance_count": 2,
+          "time_info": "[03时20分 ~ 03时21分]"
         },
         {
-          "title": "Nebius美股盘前跌超7%，公司拟发行45亿美元可转换优先票据。",
-          "url": "https://wallstreetcn.com/livenews/3151762",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普：刚抵达佐治亚州，正前往大型集会现场。",
+          "url": "https://flash.jin10.com/detail/20261017031358454800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时58分"
+          "time_info": "03时21分"
         },
         {
-          "title": "Moderna(MRNA.O)美股盘前涨超100%，公司与默沙东宣布黑色素瘤皮肤癌疫苗在大型试验中达到目标影响。默沙东(MRK.N)上涨8.3%。",
-          "url": "https://flash.jin10.com/detail/20260819194941683800",
-          "source": "金十数据",
+          "title": "美国总统特朗普称他“不急于”任命新的新闻秘书。 特朗普没有列出新闻秘书接替人选的候选名单。",
+          "url": "https://wallstreetcn.com/livenews/3180440",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时58分"
+          "time_info": "03时21分"
         },
         {
-          "title": "股债市场短暂喘息，美股盘前存储芯片股普涨，SK海力士涨约6%，Moderna涨超80%，油价四连涨",
-          "url": "https://wallstreetcn.com/articles/3779750",
-          "source": "华尔街见闻",
+          "title": "据福克斯新闻：美国总统特朗普表示并不急于任命新的新闻秘书。",
+          "url": "https://flash.jin10.com/detail/20261017030317470800",
+          "source": "金十数据",
           "ranks": [
-            10
+            5
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时58分"
+          "time_info": "03时21分"
         },
         {
-          "title": "Moderna美股盘前涨超80%。",
-          "url": "https://wallstreetcn.com/livenews/3151747",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时58分"
-        },
-        {
-          "title": "Moderna美股盘前涨超50%，默沙东前涨近6%，公司与默沙东宣布黑色素瘤皮肤癌疫苗在大型试验中达到目标影响。其他疫苗股跟涨，BioNTech美股盘前涨近19%。",
-          "url": "https://wallstreetcn.com/livenews/3151745",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时58分"
-        },
-        {
-          "title": "美股盘前三大股指期货集体翻红",
-          "url": "https://www.douyin.com/hot/2615877",
-          "source": "抖音",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时58分"
-        },
-        {
-          "title": "Moderna美股盘前上涨超30%，公司与默沙东宣布黑色素瘤皮肤癌疫苗在大型试验中达到目标影响。",
-          "url": "https://wallstreetcn.com/livenews/3151743",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时58分"
-        },
-        {
-          "title": "塔吉特第二季度净销售额265.4亿美元，预期261.1亿美元。 第二季度调整后每股收益4.11美元。 第二季度同店销售额增长3.8%，预期增长2.43%。 塔吉特预计全年调整后每股收益为9.90至10.90美元。 塔吉特美股盘前跌近1%。",
-          "url": "https://wallstreetcn.com/livenews/3151729",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "“价格屠夫”梁文锋“收刀”",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%BB%B7%E6%A0%BC%E5%B1%A0%E5%A4%AB%E2%80%9D%E6%A2%81%E6%96%87%E9%94%8B%E2%80%9C%E6%94%B6%E5%88%80%E2%80%9D",
+          "title": "特朗普称可能打击伊朗镐山核设施",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%8F%AF%E8%83%BD%E6%89%93%E5%87%BB%E4%BC%8A%E6%9C%97%E9%95%90%E5%B1%B1%E6%A0%B8%E8%AE%BE%E6%96%BD",
           "source": "百度热搜",
           "ranks": [
-            2
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时58分"
+          "appearance_count": 2,
+          "time_info": "[03时20分 ~ 03时21分]"
         },
         {
-          "title": "宇树上市首日造富：天使投资人账面回报超800倍 DeepSeek配售浮盈近7亿元",
-          "url": "https://www.cls.cn/detail/2458007",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时58分"
-        },
-        {
-          "title": "梁文锋打新宇树科技浮盈11亿，雷军赚152亿，美团系浮盈333亿，大疆痛失超250亿",
-          "url": "https://wallstreetcn.com/articles/3779762",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时58分"
-        },
-        {
-          "title": "DeepSeek Harness 轻松破了 GitHub 记录，它能引发一场什么革命？",
-          "url": "https://www.zhihu.com/question/2072997638685864311",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "全球瞩目！美联储会议纪要今夜来袭 能否抑制“美债风暴”？",
-          "url": "https://www.cls.cn/detail/2458004",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时58分"
-        },
-        {
-          "title": "这是当前美股最大风险？华尔街策略师：一旦美债“破6”……",
-          "url": "https://www.cls.cn/detail/2457916",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时58分"
-        },
-        {
-          "title": "美债逼宫二十年纪录，黄金到底要攻还是守？",
-          "url": "https://flash.jin10.com/detail/20260819194033354800",
-          "source": "金十数据",
+          "title": "首场简报会表现糟糕，特朗普考虑更换白宫新闻秘书人选",
+          "url": "https://wallstreetcn.com/livenews/3180421",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时58分"
+          "time_info": "03时21分"
         }
       ]
     },
     {
-      "keyword_group": "特朗普",
+      "keyword_group": "美股",
       "match_count": 3,
       "titles": [
         {
-          "title": "特朗普宣布：推迟3天加征关税",
-          "url": "https://news.ifeng.com/c/8viES1IRwn8",
-          "source": "凤凰网",
+          "title": "沃什IMF年会上未释放加息信号 美股三大期指窄幅震荡 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2507212",
+          "source": "财联社热门",
           "ranks": [
-            3
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时58分"
+          "appearance_count": 2,
+          "time_info": "[03时20分 ~ 03时21分]"
         },
         {
-          "title": "特朗普寻求今秋与金正恩会晤",
-          "url": "https://news.ifeng.com/c/8vi85c8Rz8H",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时58分"
-        },
-        {
-          "title": "特朗普声称目前和未来不会与伊朗会谈，秀地图标注霍尔木兹为“美国新领土”",
-          "url": "https://wallstreetcn.com/articles/3779720",
+          "title": "AI交易忧虑压垮美股，盘中纳指跌超2%、CoreWeave跌超10%，芯片指数八连跌",
+          "url": "https://wallstreetcn.com/articles/3783778",
           "source": "华尔街见闻",
           "ranks": [
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
+          "appearance_count": 2,
+          "time_info": "[03时20分 ~ 03时21分]"
+        },
         {
-          "title": "二季度收入仅增18%！OpenAI“暴雷”，远低于Anthropic",
-          "url": "https://wallstreetcn.com/articles/3779748",
-          "source": "华尔街见闻",
+          "title": "美股恐慌指数VIX日内涨幅达35.0%，报22.23，标普500指数维持大约1%的跌幅。 恐慌指数做多一度涨超12%。",
+          "url": "https://wallstreetcn.com/livenews/3180413",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            28
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时58分"
+          "time_info": "03时21分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "伊朗称新型武器装备投入使用",
+          "url": "https://news.ifeng.com/c/8xH7iOj4L3T",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时20分 ~ 03时21分]"
+        },
+        {
+          "title": "美国中央司令部：由于美国海军封锁，伊朗已无海上进出口贸易。",
+          "url": "https://flash.jin10.com/detail/20261017021358081800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时21分"
+        },
+        {
+          "title": "伊朗：愿意帮助解决沙特和也门（胡塞武装）之间的冲突。",
+          "url": "https://wallstreetcn.com/livenews/3180418",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "已恢复!DeepSeek发故障补偿",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367231&amp;topic_name=%E5%B7%B2%E6%81%A2%E5%A4%8D%21DeepSeek%E5%8F%91%E6%95%85%E9%9A%9C%E8%A1%A5%E5%81%BF",
+          "source": "贴吧",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时20分 ~ 03时21分]"
+        },
+        {
+          "title": "如何看待网友说 DeepSeek 在爱里长大？",
+          "url": "https://www.zhihu.com/question/2093751116613866755",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时20分 ~ 03时21分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美元指数16日下跌",
+          "url": "https://flash.jin10.com/detail/20261017031439108800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时21分"
+        },
+        {
+          "title": "美元指数本周跌约0.4%",
+          "url": "https://wallstreetcn.com/livenews/3180442",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
       "match_count": 1,
       "titles": [
         {
-          "title": "伊朗称若利益受损，将通过提高霍尔木兹海峡关税等方式反制",
-          "url": "https://wallstreetcn.com/livenews/3151740",
-          "source": "华尔街见闻-快讯",
+          "title": "黄仁勋力挺CoreWeave，纳指惊险收涨，道指反弹超1%，芯片指数七连跌，欧美债市涨",
+          "url": "https://wallstreetcn.com/articles/3783663",
+          "source": "华尔街见闻",
           "ranks": [
-            18
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时58分"
+          "appearance_count": 2,
+          "time_info": "[03时20分 ~ 03时21分]"
         }
       ]
     }
